@@ -1,17 +1,13 @@
 # Svelte & Snowpack template
 
 ```bash
-## Install template
-$ npx degit ParkYoungWoong/svelte-snowpack-template DIR_NAME
-
-## Change directory
-$ cd DIR_NAME
-
 ## Install dependencies
 $ npm i
 
 ## Start dev server
-$ npm run dev
+$ npm start
+or
+$ yarn start
 ```
 
 - Svelte
